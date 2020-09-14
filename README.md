@@ -1,7 +1,9 @@
-### Hi there, We are ShopWorks [shopworks][website] 👋
+### Hi there, we are ShopWorks 👋
 
+[![Website](https://img.shields.io/website?label=ShopWorks.nl&style=for-the-badge&url=https%3A%2F%2Fshopworks.nl)](https://shopworks.nl)
+[![Twitter Follow](https://img.shields.io/twitter/follow/shopworks_nl?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fshopworksnl&screen_name=shopworks_nl)
 
-## I'm a Husband, Father, Developer, and Teacher!
+## PUSHING BOUNDRIES IN ECOMMERCE
 
 - 🔭 I’m currently working on a [VS Code Course][website]!
 - 🌱 I’m currently learning everything 🤣
@@ -9,8 +11,8 @@
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw and play guitar / drums
 
-### Spotify Playing 🎧
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
+### Shopware unplugged Playing 🎧
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="ShopWare unplugged" width="350" />](https://open.spotify.com/show/1hmUJfVZqNbdbG7MoYJREw)
 
 ### Connect with me:
 
