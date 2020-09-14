@@ -1,9 +1,9 @@
-### Hi there, I'm Jesse - aka [codeSTACKr][website] 👋
+### Hi there, we are ShopWorks 👋
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
+[![Website](https://img.shields.io/website?label=ShopWorks.nl&style=for-the-badge&url=https%3A%2F%2Fshopworks.nl)](https://shopworks.nl)
+[![Twitter Follow](https://img.shields.io/twitter/follow/shopworks_nl?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fshopworksnl&screen_name=shopworks_nl)
 
-## I'm a Husband, Father, Developer, and Teacher!
+## PUSHING BOUNDRIES IN ECOMMERCE
 
 - 🔭 I’m currently working on a [VS Code Course][website]!
 - 🌱 I’m currently learning everything 🤣
