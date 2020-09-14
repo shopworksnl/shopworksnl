@@ -57,11 +57,11 @@
 ### 📕 Latest News
 
 <!-- BLOG-POST-LIST:START -->
+- [Open source of maatwerk CMS? Dit is ons advies – deel 1](https://www.shopworks.nl/open-source-maatwerk-cms-webshop-advies-deel-1/)
+- [Open source of maatwerk CMS? Dit is ons advies – deel 2](https://www.shopworks.nl/open-source-maatwerk-cms-webshop-advies-deel-2/)
 - [Shopware in Gartner Magic Quadrant](https://www.shopworks.nl/shopware-in-gartner-magic-quadrant/)
 - [Elisa aan het woord](https://www.shopworks.nl/shopworker-aan-het-woord-elisa/)
 - [Interview Sander Mangel Shopware 6 PWA](https://www.shopworks.nl/interview-shopware-6-pwa/)
-- [Re-commerce](https://www.shopworks.nl/re-commerce/)
-- [Generatie Z](https://www.shopworks.nl/generatie-z/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more news...](https://www.shopworks.nl/team/nieuws/)
