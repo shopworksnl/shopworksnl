@@ -12,7 +12,7 @@
 - ⚡ Fun fact: I love to draw and play guitar / drums
 
 ### Shopware unplugged Playing 🎧
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="ShopWare unplugged" width="350" />](https://open.spotify.com/show/1hmUJfVZqNbdbG7MoYJREw)
+[<img src="https://pbs.twimg.com/media/Ef3aycsX0AE_wtt?format=jpg&name=medium" alt="ShopWare unplugged" width="350" />](https://open.spotify.com/show/1hmUJfVZqNbdbG7MoYJREw)
 
 ### Connect with me:
 
