@@ -57,11 +57,11 @@
 ### 📕 Latest News
 
 <!-- BLOG-POST-LIST:START -->
+- [Hoe gaat het nu met APS Supply](https://www.shopworks.nl/hoe-gaat-het-nu-met-aps-supply/)
 - [Dirk aan het woord](https://www.shopworks.nl/dirk-aan-het-woord/)
 - [Open source of maatwerk CMS? Dit is ons advies – deel 1](https://www.shopworks.nl/open-source-maatwerk-cms-webshop-advies-deel-1/)
 - [Open source of maatwerk CMS? Dit is ons advies – deel 2](https://www.shopworks.nl/open-source-maatwerk-cms-webshop-advies-deel-2/)
 - [Shopware in Gartner Magic Quadrant](https://www.shopworks.nl/shopware-in-gartner-magic-quadrant/)
-- [Elisa aan het woord](https://www.shopworks.nl/shopworker-aan-het-woord-elisa/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more news...](https://www.shopworks.nl/team/nieuws/)
