@@ -57,8 +57,8 @@
 ### 📕 Latest News
 
 <!-- BLOG-POST-LIST:START -->
+- [ShopWorker Suzan aan het woord](https://www.shopworks.nl/shopworker-suzan-aan-het-woord/)
 - [Hoe maak je een goede productpagina?](https://www.shopworks.nl/goede-productpagina/)
-- [Dirk aan het woord  Copy](https://www.shopworks.nl/dirk-aan-het-woord-copy/)
 - [Waarom Shopware 6 de juiste keuze is voor een B2B-webshop](https://www.shopworks.nl/shopware-6-b2b-webshop/)
 - [Hoe gaat het nu met APS Supply](https://www.shopworks.nl/hoe-gaat-het-nu-met-aps-supply/)
 - [Dirk aan het woord](https://www.shopworks.nl/dirk-aan-het-woord/)
